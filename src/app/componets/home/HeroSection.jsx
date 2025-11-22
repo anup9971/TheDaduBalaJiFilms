@@ -46,7 +46,7 @@ export default function HeroSection() {
         </div>
       </div>
        */}
-       <div className="flex-1 flex justify-center md:justify-end w-full">
+       <div className="flex-1  flex justify-center md:justify-end w-full">
   <div className="relative w-[300px] sm:w-[350px] md:w-[450px] h-[200px] sm:h-[250px] md:h-[300px] rounded-[30%] overflow-hidden border-white">
     <video
       src="/vd1.mp4" // replace with your video path
