@@ -10,14 +10,14 @@ const services = [
     title: "Television Commercial",
     description:
       "Stand out with The Dadu BalaJi Films — a leading TVC agency in Delhi NCR offering complete television commercial production. From concept to post-production, our expert ad film makers in Delhi NCR craft high-impact ads for TV, YouTube, OTT, and digital platforms.",
-    image: "/hero5.jpg", // replace with your service images
+    image:"/hero5.jpg", // replace with your service images
   },
   {
     id: 2,
     title: "Corporate Films",
     description:
       "We create corporate films that elevate your brand story, including interviews, case studies, and internal communications.",
-    image: "/hero6.jpg",
+    image:"/hero6.jpg",
   },
   // Add more services as needed
 ];
